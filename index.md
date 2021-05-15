@@ -20,6 +20,10 @@ Our project aims at building a simple web-based tool for political entities, hum
 4. Once the classification is complete, this data will then flow to the visualization pipeline where we'll create visualizations like the graph network and several others.
 5. These visualizations will be available for the user to view, along with a feature that lets them download the underlying data (along with the classification tags)
 
+### What does the end product look like?
+
+![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/ui.png)
+
 ### What are the benefits of this project?
 
 Imagine you are a political entity that wishes to keep track of any political propaganda created by any other political party. Or you are a part of the human rights organization that wants to keep track of any human rights violations propagated in the form of fake news. Or if you are a journalist wanting to write about a topic that has gained popularity very recently. Or if you are just a concerned citizen who came across a new Twitter campaign, and wants to know if these tweets are actually true or are just another cyber propaganda. 
