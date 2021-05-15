@@ -22,7 +22,7 @@ Our project aims at building a simple web-based tool for political entities, hum
 
 ### What does the end product look like?
 
-![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/ui.png)
+![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/ui-template.png)
 
 ### What are the benefits of this project?
 
