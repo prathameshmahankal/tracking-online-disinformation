@@ -12,13 +12,17 @@ Our project aims at building a simple web-based tool for political entities, hum
 
 ### How did we go about it?
 
-![Image](src)
+![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/architecture.png)
 
 1. Our easy-to-use web interface allows users to search for a topic they would like to analyze and see patterns of disinformation for. This platform is highly scalable such that it can handle multiple user requests at once.
 2. Based on this topic given by the user, we will fetch data from social media for that topic and store it in the backend for further steps.
 3. Next, this data will flow into the Machine Learning model where each record will be classified as being either real or fake.
 4. Once the classification is complete, this data will then flow to the visualization pipeline where we'll create visualizations like the graph network and several others.
 5. These visualizations will be available for the user to view, along with a feature that lets them download the underlying data (along with the classification tags)
+
+### What does the end product look like?
+
+![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/ui-template.png)
 
 ### What are the benefits of this project?
 
