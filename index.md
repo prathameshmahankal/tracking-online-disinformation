@@ -12,6 +12,7 @@ Our project aims at building a simple web-based tool for political entities, hum
 
 ### How did we go about it?
 
+![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/architecture.png)
 ![Image](https://github.com/prathameshmahankal/tracking-online-disinformation/blob/gh-pages/images/architecture.png)
 
 1. Our easy-to-use web interface allows users to search for a topic they would like to analyze and see patterns of disinformation for. This platform is highly scalable such that it can handle multiple user requests at once.
