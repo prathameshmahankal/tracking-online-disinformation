@@ -35,3 +35,26 @@ To summarize, here are some of the useful features that our product will have:
 2. In-depth visualizations like that network graphs along with several other plots that could help track the spread of a topic or news on social media
 3. Generating reliable predictions using Machine Learning that would be used to create the above visualizations mentioned above
 4. Ability for the users to download this information in raw format in case they need it
+
+### Who we are?
+
+<table>
+  <tr>
+    <td><img src="/images/malvika.jpg" width=150 height=150></td>
+    <td><img src="/images/prathamesh.jpg" width=150 height=150></td>
+    <td><img src="/images/subhiksha.jpg" width=150 height=150></td>
+    <td><img src="/images/meghana.jpg" width=150 height=150></td>
+  </tr>
+  <tr>
+    <td>Malvika Mohan</td>
+    <td>Prathamesh Mahankal</td>
+    <td>Subhiksha Mukuntharaj</td>
+    <td>Meghana Parab</td>
+  </tr>
+  <tr>
+    <td>mmohan05@uw.edu</td>
+    <td>psm1695@uw.edu</td>
+    <td>subhi@uw.edu</td>
+    <td>megs1695@uw.edu</td>
+  </tr>
+</table>
