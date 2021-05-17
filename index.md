@@ -53,7 +53,7 @@ To summarize, here are some of the useful features that our product will have:
 
 ### Who we are?
 
-![Image](/images/tile.jpeg)
+![Image](/images/tileimageforposter.png)
 
 <table>
   <tr>
