@@ -58,17 +58,20 @@ To summarize, here are some of the useful features that our product will have:
     <td><img src="/images/prathamesh.jpg" width=150 height=150></td>
     <td><img src="/images/subhiksha.jpg" width=150 height=150></td>
     <td><img src="/images/meghana.jpg" width=150 height=150></td>
+    <td><img src="https://github.com/prathameshmahankal/tracking-online-disinformation/blob/main/images/malvika.jpg" width=150 height=150></td>
   </tr>
   <tr>
     <td>Malvika Mohan</td>
     <td>Prathamesh Mahankal</td>
     <td>Subhiksha Mukuntharaj</td>
     <td>Meghana Parab</td>
+    <td>Testing to see if image is displayed</td>
   </tr>
   <tr>
     <td>mmohan05@uw.edu</td>
     <td>psm1695@uw.edu</td>
     <td>subhi@uw.edu</td>
     <td>megs1695@uw.edu</td>
+    <td>test</td>
   </tr>
 </table>
