@@ -57,12 +57,6 @@ To summarize, here are some of the useful features that our product will have:
 
 <table>
   <tr>
-    <td><img src="/images/malvika.jpg" width=150 height=150></td>
-    <td><img src="/images/prathamesh.jpg" width=150 height=150></td>
-    <td><img src="/images/subhiksha.jpg" width=150 height=150></td>
-    <td><img src="/images/meghana.jpg" width=150 height=150></td>
-  </tr>
-  <tr>
     <td>Malvika Mohan</td>
     <td>Prathamesh Mahankal</td>
     <td>Subhiksha Mukuntharaj</td>
