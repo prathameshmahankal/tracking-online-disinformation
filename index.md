@@ -33,6 +33,7 @@ Our easy-to-use web interface allows users to search for a topic they would like
 ### What does the end product look like?
 
 ![Image](/images/ui-template.png)
+![Image](/images/graph.jpeg)
 
 ### What are the benefits of this project?
 
@@ -51,6 +52,8 @@ To summarize, here are some of the useful features that our product will have:
 4. Ability for the users to **download this information in raw format** in case they need it
 
 ### Who we are?
+
+![Image](/images/tile.jpeg)
 
 <table>
   <tr>
