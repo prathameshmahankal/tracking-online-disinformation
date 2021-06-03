@@ -34,6 +34,7 @@ Our easy-to-use web interface allows users to search for a topic they would like
 
 ![Image](/images/ui-template.png)
 ![Image](/images/graph.jpeg)
+![Image](/images/hashtag-viz.jpeg)
 
 ### What are the benefits of this project?
 
